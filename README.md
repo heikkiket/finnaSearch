@@ -1,5 +1,12 @@
 # finna
 
+A Small utility to search images from Finna database
+
+Pieni työkalu, jolla voi hakea Finna-tietokannasta kuvia.
+ 
+Testaa:
+https://heikkiket.kapsi.fi/finna/
+
 ## Project setup
 ```
 npm install
